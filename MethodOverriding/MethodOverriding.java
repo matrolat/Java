@@ -3,7 +3,7 @@ public class MethodOverriding{
     public static void main(String[] args) {
         Animal a = new Dog();
         a.sound();
-        System.out.println(a.y);
+        
     }
 }
 
